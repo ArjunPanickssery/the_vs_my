@@ -1,0 +1,65 @@
+The snow leopard is a magnificent big cat native to the mountain ranges of Central and South Asia. Known for its striking fur pattern of black rosettes and spots on a smoky-gray background, it is perfectly adapted to its cold, rugged environment with a thick coat and large paws that act as natural snowshoes. Elusive and solitary by nature, the snow leopard is an apex predator that primarily hunts wild sheep, goats, and other mountain ungulates.
+
+The capybara is the largest rodent in the world, native to South America. It has a chunky body covered with coarse, brown fur and webbed feet that make it an excellent swimmer. Capybaras live in groups near bodies of water and feed mainly on grasses and aquatic plants.
+
+The pangolin is a small, unique mammal found in parts of Asia and Africa. Its body is covered with tough, overlapping scales that provide protection from predators. Mostly nocturnal, pangolins are solitary creatures that use their long, sticky tongues to eat ants and termites.
+
+The giraffe is a tall animal from Africa. It has a long neck and spots. Giraffes eat leaves from trees.
+
+A kangaroo is a bouncy animal from Australia. It hops around and has a big tail. Kangaroos carry their babies in a pouch.
+
+An elephant is a big gray animal with a long trunk. It lives in forests and likes to eat plants. Elephants have big ears and tusks.
+
+A monkey is a small, funny animal that climbs trees. It has a tail and likes to eat bananas. Monkeys make a lot of noise.
+
+A zebra is like a horse but with stripes. It runs fast and lives in groups. Zebras are black and white.
+
+The okapi, often called the forest giraffe, is a shy and reclusive animal found in the dense rainforests of the Congo. Its striking features include a chocolate-brown coat with zebra-like stripes on its hindquarters and legs, which aid in camouflage. Despite its solitary nature, the okapi has a highly developed hearing system, with large, movable ears that allow it to detect even the slightest sounds in its lush, complex habitat.
+
+The axolotl, a unique amphibian native to the lakes underlying Mexico City, captivates with its perpetual larval appearance and feathery gill stalks that radiate from its head. This species has the extraordinary ability to regenerate limbs, and its pale, translucent body can reveal the inner workings of its physiology. Primarily aquatic, the axolotl has a carnivorous diet, feeding on small fish and worms in its freshwater habitat.
+
+The narwhal, often referred to as the "unicorn of the sea," is a medium-sized whale known for the long, spiral tusk that protrudes from its jaw. Found primarily in the Arctic waters, the narwhal's tusk is actually an elongated upper left canine, which it uses in sensory perception and possibly in mating displays. These elusive marine mammals travel in pods and rely on sea ice for their survival, feeding on a diet of fish, shrimp, and squid.
+
+The cassowary is a formidable bird native to the tropical forests of New Guinea and northeastern Australia, distinguished by its vivid blue face and neck and helmet-like casque atop its head. Standing up to two meters tall, cassowaries are among the heaviest birds capable of short bursts of running and are known for their ability to swim. They play a critical role in forest ecology as effective seed dispersers, feeding on a variety of fruits and plants.
+
+The quokka, often deemed the world's happiest animal due to its cheeky grin, is a small marsupial found on some smaller islands off the coast of Western Australia. Its friendly demeanor and approachability make it a favorite among wildlife enthusiasts, though its population faces threats from habitat loss and predators. Quokkas are nocturnal and herbivorous, spending much of their time foraging for leaves, grasses, and small branches.
+
+The hedgehog is a small mammal with a coat full of spines, which it uses for protection by rolling into a ball. They are mostly found in Europe, Asia, and Africa, and feed on insects. Hedgehogs are nocturnal and spend most of the day sleeping under bushes or in holes.
+
+The toucan is a tropical bird known for its large, colorful beak. It lives in the rainforests of Central and South America and eats fruits, insects, and occasionally small birds. Toucans are social creatures, often seen in small flocks in the treetops.
+
+The koala is a tree-dwelling marsupial from Australia, famous for its diet of eucalyptus leaves. It has a stout, tailless body and a large head with fluffy ears. Koalas spend most of their time sleeping and are often seen clinging to branches.
+
+The walrus is a large marine mammal with distinctive long tusks and whiskers. Found in the Arctic Ocean, walruses use their tusks to pull themselves onto ice or to fight. They primarily eat clams, mussels, and other sea creatures found on the ocean floor.
+
+The flamingo is a tall, pink bird, known for standing on one leg. It lives in large groups in various habitats around the world, including lagoons and lakeshores. Flamingos feed by filtering water for small fish and plankton with their downturned, curved beaks.
+
+The goldfish is a small, orange fish kept in bowls. It swims around and eats fish food. Goldfish are popular pets.
+
+A pigeon is a gray bird found in cities. It coos and pecks at crumbs. Pigeons fly around and often gather in large groups.
+
+The frog is a green amphibian that jumps. It lives in ponds and eats bugs. Frogs croak and have webbed feet.
+
+A rabbit is a fluffy animal with long ears. It hops around and eats carrots. Rabbits are often kept as pets.
+
+The turtle is a slow-moving reptile with a shell. It lives in water and on land. Turtles eat plants and small insects.
+
+The harp seal, native to the icy waters of the North Atlantic and Arctic Oceans, is known for its pure white coat during the early weeks of life. This camouflage helps protect the pups from predators. Adult harp seals are skilled swimmers, capable of diving deep to hunt for fish and crustaceans.
+
+The red panda, a small mammal found in the temperate forests of the Himalayas and southwestern China, has a striking red-brown fur and a long, bushy tail. Its diet consists mainly of bamboo, but it also eats fruits, acorns, and insects. Red pandas are solitary creatures, active mainly during dawn and dusk.
+
+The platypus, an egg-laying mammal endemic to eastern Australia, is remarkable for its duck-bill, webbed feet, and beaver-like tail. It inhabits freshwater rivers and streams, using its bill to detect prey underwater. The platypus is a proficient swimmer and hunts for small aquatic animals like insects and crustaceans.
+
+The Galápagos tortoise, one of the longest-living vertebrates, is native to the Galápagos Islands. Known for their massive size and slow movements, these tortoises can live for over 100 years. They are herbivores, feeding on grasses, leaves, and cactus pads, playing a crucial role in their ecosystem by dispersing seeds.
+
+The fennec fox, the smallest of all the world's foxes, is native to the Sahara Desert and other parts of North Africa. Its large ears help dissipate heat and locate prey underground. Nocturnal by nature, the fennec fox feeds on insects, small mammals, and plants, adapted to the harsh desert environment.
+
+The snowshoe hare, found in North American boreal forests and tundra, is known for its seasonal fur color change, from brown in summer to white in winter. This adaptation provides excellent camouflage against predators. Snowshoe hares are herbivores, feeding on a variety of vegetation including twigs, bark, and grasses.
+
+The manatee, often referred to as the sea cow, is a large marine mammal found in coastal waters and rivers of the Caribbean, Gulf of Mexico, Amazon Basin, and West Africa. Gentle and slow-moving, manatees feed on a wide variety of submerged vegetation. They play a significant role in their ecosystems by controlling aquatic plant growth.
+
+The kiwi, a flightless bird native to New Zealand, is about the size of a domestic chicken but with a long, slender bill and hair-like feathers. Kiwis are nocturnal and have a highly developed sense of smell, unusual for birds, which they use to forage for insects and worms. They are solitary and highly territorial.
+
+The black rhinoceros, native to eastern and southern Africa, is known for its two horns made of keratin. Despite its massive size and thick skin, the black rhino is fast and agile, capable of running at speeds up to 55 km/h. Primarily a browser, it feeds on a wide variety of plants, using its prehensile upper lip to grasp twigs and leaves.
+
+The binturong, also known as the bearcat, is a viverrid native to South and Southeast Asia. With a shaggy coat, bushy tail, and face that resembles a bear and a cat, the binturong is arboreal and primarily nocturnal. It has a unique scent, reminiscent of popcorn, which it uses to mark its territory, and it feeds on fruits, small animals, and eggs.

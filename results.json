@@ -1,0 +1,650 @@
+[
+    {
+        "dataset": "poems",
+        "item": "Carpet tastes like red,\nLampshade flying, bed is dead,\nButterflies eat lead.",
+        "my": 4.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Guitar barks at moon,\nBanana wears a raccoon,\nCheese left out till June.",
+        "my": 3.5,
+        "the": 3.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Raindrops meow slow,\nMountains skip, rivers throw,\nJelly beans don't row.",
+        "my": 3.5,
+        "the": 3.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Chicken socks on toast,\nSunrise eats a ghost,\nSalad fears the most.",
+        "my": 3.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Book reads a person,\nFishes baking in the sun,\nMirror says, \"Run, bun!\"",
+        "my": 3.5,
+        "the": 3.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Stapler chews the rug,\nWatermelon barks at jug,\nSpoon hugs coffee mug.",
+        "my": 4.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Tree dances with broom,\nClocks sing to a dirty room,\nCarpet eats perfume.",
+        "my": 4.5,
+        "the": 4.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Fridge walks to the park,\nSocks chat with a neon shark,\nDarkness barks, \"Hark, hark!\"",
+        "my": 4.0,
+        "the": 3.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Potato flies kite,\nChairs play chess all through the night,\nLemons out of sight.",
+        "my": 4.5,
+        "the": 3.5
+    },
+    {
+        "dataset": "poems",
+        "item": "T-shirt tells a joke,\nPillows filled with diet coke,\nClouds wear a cloak.",
+        "my": 4.0,
+        "the": 3.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Chair sit, floor is hapy,\nBird fly with no wing,\nPizza sleeps in cup.",
+        "my": 3.0,
+        "the": 2.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Sun is cold, ice hot,\nFish walking on the street,\nShoe sing to the cloud.",
+        "my": 3.5,
+        "the": 2.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Ball roll up the hill,\nBook read itself yesterday,\nTrees whisper loud wrong.",
+        "my": 2.5,
+        "the": 2.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Moon bright in morning,\nSunset at noon, stars play card,\nGrass wear blue glasses.",
+        "my": 4.0,
+        "the": 3.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Tea drink the human,\nBike ride itself to the sea,\nClouds jump over moon.",
+        "my": 4.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Evening's gentle sigh,\nMoonlight dances on the tide,\nPeace floods the shoreline.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Whispers of autumn,\nLeaves carpet the silent path,\nGold beneath my feet.",
+        "my": 5.0,
+        "the": null
+    },
+    {
+        "dataset": "poems",
+        "item": "Winter's breath so crisp,\nSnowflakes in symmetrical grace,\nSilence cloaks the earth.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Springâ€™s first blush unfurls,\nCherry blossoms tender bloom,\nNew beginnings stir.",
+        "my": 5.0,
+        "the": null
+    },
+    {
+        "dataset": "poems",
+        "item": "Summerâ€™s vibrant hum,\nMeadows rich with life's chorus,\nSunset paints the sky.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Stardust veils the lake,\nNight whispers to the cosmos,\nEternal embrace.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Mountains hold the dawn,\nMist parts for the sunâ€™s soft kiss,\nEarth sighs in lightâ€™s warmth.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Ancient forest dreams,\nMoss whispers old earth secrets,\nTime breathes through the leaves.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Desert under stars,\nSilence speaks in silver tones,\nInfinityâ€™s pulse.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Oceanâ€™s heart pulses,\nWaves murmur of moonlit paths,\nSouls sail beyond horizons.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Rain falls on the street,\nUmbrellas bloom like flowers,\nPuddles mirror skies.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Sunset fades to gray,\nCity lights flicker awake,\nNight covers the day.",
+        "my": 4.5,
+        "the": 4.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Leaves rustle softly,\nA breeze stirs the quiet park,\nSquirrels dart and play.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Morning dew sparkles,\nBirds chirp in a modest tune,\nDay breaks with a yawn.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Stars peek through the clouds,\nA lone owl calls in the dark,\nNight gently whispers.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "poems",
+        "item": "Coffee in the dawn,\nMorning yawns over the town,\nWork starts too early.",
+        "my": 4.5,
+        "the": 4.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Clouds drift aimlessly,\nA lazy sun hides behind,\nDay like any other.",
+        "my": 4.5,
+        "the": 4.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Trees sway just a bit,\nA breeze that feels quite normal,\nNothing much to see.",
+        "my": 4.0,
+        "the": 3.5
+    },
+    {
+        "dataset": "poems",
+        "item": "The road stretches on,\nCars pass with a muted hum,\nRhythms of routine.",
+        "my": 4.5,
+        "the": 4.0
+    },
+    {
+        "dataset": "poems",
+        "item": "Night settles softly,\nMoon appears, not too bright,\nSleep comes, just on time.",
+        "my": 4.5,
+        "the": 4.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The snow leopard is a magnificent big cat native to the mountain ranges of Central and South Asia. Known for its striking fur pattern of black rosettes and spots on a smoky-gray background, it is perfectly adapted to its cold, rugged environment with a thick coat and large paws that act as natural snowshoes. Elusive and solitary by nature, the snow leopard is an apex predator that primarily hunts wild sheep, goats, and other mountain ungulates.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The capybara is the largest rodent in the world, native to South America. It has a chunky body covered with coarse, brown fur and webbed feet that make it an excellent swimmer. Capybaras live in groups near bodies of water and feed mainly on grasses and aquatic plants.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The pangolin is a small, unique mammal found in parts of Asia and Africa. Its body is covered with tough, overlapping scales that provide protection from predators. Mostly nocturnal, pangolins are solitary creatures that use their long, sticky tongues to eat ants and termites.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The giraffe is a tall animal from Africa. It has a long neck and spots. Giraffes eat leaves from trees.",
+        "my": 4.0,
+        "the": 4.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "A kangaroo is a bouncy animal from Australia. It hops around and has a big tail. Kangaroos carry their babies in a pouch.",
+        "my": 4.0,
+        "the": 4.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "An elephant is a big gray animal with a long trunk. It lives in forests and likes to eat plants. Elephants have big ears and tusks.",
+        "my": 4.0,
+        "the": 4.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "A monkey is a small, funny animal that climbs trees. It has a tail and likes to eat bananas. Monkeys make a lot of noise.",
+        "my": 4.0,
+        "the": 4.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "A zebra is like a horse but with stripes. It runs fast and lives in groups. Zebras are black and white.",
+        "my": 4.0,
+        "the": 4.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The okapi, often called the forest giraffe, is a shy and reclusive animal found in the dense rainforests of the Congo. Its striking features include a chocolate-brown coat with zebra-like stripes on its hindquarters and legs, which aid in camouflage. Despite its solitary nature, the okapi has a highly developed hearing system, with large, movable ears that allow it to detect even the slightest sounds in its lush, complex habitat.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The axolotl, a unique amphibian native to the lakes underlying Mexico City, captivates with its perpetual larval appearance and feathery gill stalks that radiate from its head. This species has the extraordinary ability to regenerate limbs, and its pale, translucent body can reveal the inner workings of its physiology. Primarily aquatic, the axolotl has a carnivorous diet, feeding on small fish and worms in its freshwater habitat.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The narwhal, often referred to as the \"unicorn of the sea,\" is a medium-sized whale known for the long, spiral tusk that protrudes from its jaw. Found primarily in the Arctic waters, the narwhal's tusk is actually an elongated upper left canine, which it uses in sensory perception and possibly in mating displays. These elusive marine mammals travel in pods and rely on sea ice for their survival, feeding on a diet of fish, shrimp, and squid.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The cassowary is a formidable bird native to the tropical forests of New Guinea and northeastern Australia, distinguished by its vivid blue face and neck and helmet-like casque atop its head. Standing up to two meters tall, cassowaries are among the heaviest birds capable of short bursts of running and are known for their ability to swim. They play a critical role in forest ecology as effective seed dispersers, feeding on a variety of fruits and plants.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The quokka, often deemed the world's happiest animal due to its cheeky grin, is a small marsupial found on some smaller islands off the coast of Western Australia. Its friendly demeanor and approachability make it a favorite among wildlife enthusiasts, though its population faces threats from habitat loss and predators. Quokkas are nocturnal and herbivorous, spending much of their time foraging for leaves, grasses, and small branches.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The hedgehog is a small mammal with a coat full of spines, which it uses for protection by rolling into a ball. They are mostly found in Europe, Asia, and Africa, and feed on insects. Hedgehogs are nocturnal and spend most of the day sleeping under bushes or in holes.",
+        "my": null,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The toucan is a tropical bird known for its large, colorful beak. It lives in the rainforests of Central and South America and eats fruits, insects, and occasionally small birds. Toucans are social creatures, often seen in small flocks in the treetops.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The koala is a tree-dwelling marsupial from Australia, famous for its diet of eucalyptus leaves. It has a stout, tailless body and a large head with fluffy ears. Koalas spend most of their time sleeping and are often seen clinging to branches.",
+        "my": 5.0,
+        "the": 4.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The walrus is a large marine mammal with distinctive long tusks and whiskers. Found in the Arctic Ocean, walruses use their tusks to pull themselves onto ice or to fight. They primarily eat clams, mussels, and other sea creatures found on the ocean floor.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The flamingo is a tall, pink bird, known for standing on one leg. It lives in large groups in various habitats around the world, including lagoons and lakeshores. Flamingos feed by filtering water for small fish and plankton with their downturned, curved beaks.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The goldfish is a small, orange fish kept in bowls. It swims around and eats fish food. Goldfish are popular pets.",
+        "my": 4.0,
+        "the": 4.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "A pigeon is a gray bird found in cities. It coos and pecks at crumbs. Pigeons fly around and often gather in large groups.",
+        "my": 4.0,
+        "the": 4.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The frog is a green amphibian that jumps. It lives in ponds and eats bugs. Frogs croak and have webbed feet.",
+        "my": 4.0,
+        "the": 4.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "A rabbit is a fluffy animal with long ears. It hops around and eats carrots. Rabbits are often kept as pets.",
+        "my": 4.0,
+        "the": 4.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The turtle is a slow-moving reptile with a shell. It lives in water and on land. Turtles eat plants and small insects.",
+        "my": 4.0,
+        "the": 4.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The harp seal, native to the icy waters of the North Atlantic and Arctic Oceans, is known for its pure white coat during the early weeks of life. This camouflage helps protect the pups from predators. Adult harp seals are skilled swimmers, capable of diving deep to hunt for fish and crustaceans.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The red panda, a small mammal found in the temperate forests of the Himalayas and southwestern China, has a striking red-brown fur and a long, bushy tail. Its diet consists mainly of bamboo, but it also eats fruits, acorns, and insects. Red pandas are solitary creatures, active mainly during dawn and dusk.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The platypus, an egg-laying mammal endemic to eastern Australia, is remarkable for its duck-bill, webbed feet, and beaver-like tail. It inhabits freshwater rivers and streams, using its bill to detect prey underwater. The platypus is a proficient swimmer and hunts for small aquatic animals like insects and crustaceans.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The GalÃ¡pagos tortoise, one of the longest-living vertebrates, is native to the GalÃ¡pagos Islands. Known for their massive size and slow movements, these tortoises can live for over 100 years. They are herbivores, feeding on grasses, leaves, and cactus pads, playing a crucial role in their ecosystem by dispersing seeds.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The fennec fox, the smallest of all the world's foxes, is native to the Sahara Desert and other parts of North Africa. Its large ears help dissipate heat and locate prey underground. Nocturnal by nature, the fennec fox feeds on insects, small mammals, and plants, adapted to the harsh desert environment.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The snowshoe hare, found in North American boreal forests and tundra, is known for its seasonal fur color change, from brown in summer to white in winter. This adaptation provides excellent camouflage against predators. Snowshoe hares are herbivores, feeding on a variety of vegetation including twigs, bark, and grasses.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The manatee, often referred to as the sea cow, is a large marine mammal found in coastal waters and rivers of the Caribbean, Gulf of Mexico, Amazon Basin, and West Africa. Gentle and slow-moving, manatees feed on a wide variety of submerged vegetation. They play a significant role in their ecosystems by controlling aquatic plant growth.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The kiwi, a flightless bird native to New Zealand, is about the size of a domestic chicken but with a long, slender bill and hair-like feathers. Kiwis are nocturnal and have a highly developed sense of smell, unusual for birds, which they use to forage for insects and worms. They are solitary and highly territorial.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The black rhinoceros, native to eastern and southern Africa, is known for its two horns made of keratin. Despite its massive size and thick skin, the black rhino is fast and agile, capable of running at speeds up to 55 km/h. Primarily a browser, it feeds on a wide variety of plants, using its prehensile upper lip to grasp twigs and leaves.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "descriptions",
+        "item": "The binturong, also known as the bearcat, is a viverrid native to South and Southeast Asia. With a shaggy coat, bushy tail, and face that resembles a bear and a cat, the binturong is arboreal and primarily nocturnal. It has a unique scent, reminiscent of popcorn, which it uses to mark its territory, and it feeds on fruits, small animals, and eggs.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "fables",
+        "item": "In a small village, a baker named Marie gave bread to the poor, never expecting anything in return. One day, a traveler repaid her kindness by revealing a secret ingredient that made her bread famous. Soon, the whole kingdom knew of Marie's bakery, and her business flourished. She continued to share her fortune with the needy, knowing the secret to success was generosity. As her fame grew, so did her heart, making her the happiest baker in the land. Marie learned that kindness, like yeast, helps everything rise.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Dr. Lin spent her days experimenting and nights pondering the mysteries of the universe. One evening, she discovered a formula that could turn any metal into gold. Instead of using it for wealth, she published her findings, hoping to advance science. Her peers, inspired by her integrity, collaborated to create life-saving medical technologies. Dr. Lin realized that true wealth comes from knowledge and the betterment of humanity. Her legacy was not gold but the countless lives she saved.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Carlos, a dedicated firefighter, always rushed into danger without hesitation. During a massive wildfire, he saved a child trapped in a burning house, but the childâ€™s beloved dog was left behind. Risking his life again, Carlos returned and rescued the dog, earning the townâ€™s deepest gratitude. The childâ€™s family, forever grateful, started a campaign to support the fire department. Carlos knew that courage wasnâ€™t just about facing flames but about the love that fueled his bravery. The town thrived, bonded by the bravery and selflessness Carlos exemplified.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Miss Patel loved teaching and treated her students with respect and care. One student, Alex, struggled with reading and felt discouraged. Miss Patel spent extra time with Alex, using creative methods to make learning fun. Alex's confidence soared, and soon he was excelling in all subjects. Years later, Alex returned as a successful author to thank Miss Patel for believing in him. She realized that a teacherâ€™s influence extends far beyond the classroom, shaping futures and dreams.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Dr. Kim worked tirelessly in a small clinic, treating patients who couldnâ€™t afford hospital care. One winter, a mysterious illness spread through the village, and Dr. Kim barely slept as she cared for the sick. Through her relentless efforts, she discovered a cure and saved countless lives. The village, forever grateful, built a new clinic in her honor. Dr. Kim knew that the greatest reward was not recognition but the smiles of the healthy and happy villagers. Her dedication proved that true care is priceless.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Liam, a humble merchant, always ensured his scales were accurate and his goods fairly priced. One day, a wealthy customer tried to bribe him for a better deal, but Liam refused. The customer, impressed by Liam's integrity, spread the word about his honesty. Soon, Liam's shop was the busiest in town, drawing customers from far and wide. Liam understood that trust and honesty were the foundations of a successful business. His story became a lesson for all merchants in the kingdom.",
+        "my": 4.5,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Elena tended her garden with love and patience, nurturing each plant as if it were her own child. Her neighbors, eager for quick results, often mocked her slow, meticulous methods. One year, a severe drought struck, and their hastily planted gardens withered. Elenaâ€™s garden thrived, thanks to the deep roots she had encouraged. Her neighbors, now admiring her wisdom, asked for her guidance. Elenaâ€™s patience had taught them that true growth takes time and care.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Jack, an inventive engineer, designed a bridge to connect two feuding towns. Despite skepticism and sabotage attempts, Jack persisted, believing the bridge could bring peace. On opening day, townsfolk from both sides crossed and met in the middle, realizing their shared humanity. The bridge became a symbol of unity, ending years of discord. Jackâ€™s creation proved that innovation could bridge not just rivers, but hearts. His legacy was the harmony he built with his hands and vision.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Nurse Maria was known for her gentle care and unwavering compassion. When a severe flu epidemic hit, Maria worked day and night, comforting patients and easing their pain. One elderly patient, touched by her kindness, left a substantial donation to the hospital in her will. The hospital used the funds to expand and offer more services to the community. Mariaâ€™s compassion had not only healed bodies but also strengthened the entire healthcare system. Her empathy transformed lives and left a lasting impact.",
+        "my": 5.0,
+        "the": 5.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Judge Smith was known for his fairness and wisdom, always ensuring justice was served. One day, he presided over a case involving a wealthy businessman and a poor farmer. The evidence showed the businessmanâ€™s guilt, but many expected the judge to be swayed by wealth. Judge Smith ruled in favor of the farmer, reinforcing the principle of equality before the law. The community respected him even more, knowing they could trust in his fairness. His legacy was a court where truth and justice prevailed.",
+        "my": 4.5,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Ellen, a banker, worked long hours to achieve her dream of becoming the youngest branch manager. One day, she realized she had missed her daughterâ€™s school play. Regretting her choices, she decided to spend more time with her family. Though she never became branch manager, she found joy in being present for her family. Ellen learned that success isnâ€™t always about titles but about what makes you truly happy. She balanced her work and life, finding contentment in both.",
+        "my": 4.5,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Tom was a mechanic who enjoyed helping his neighbors fix their cars. One winter, he repaired a stranded travelerâ€™s vehicle for free. The traveler turned out to be a wealthy businessman who offered Tom a lucrative job. Tom declined, preferring to stay and help his community. Though he never became wealthy, he was rich in friends and respect. Tom found that true wealth came from helping others.",
+        "my": 5.0,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Lila, an ambitious chef, dreamed of opening her own restaurant. After years of hard work, she finally did, but struggled to attract customers. One day, she decided to offer cooking classes to engage the community. The classes were a hit, and her restaurant soon flourished. Lila realized that success came from connecting with people, not just serving them. Her restaurant became a beloved community hub.",
+        "my": 4.5,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Jim, a friendly mailman, always took time to chat with the people on his route. One rainy day, he helped an elderly woman carry her groceries home. The womanâ€™s son, a local councilman, noticed Jimâ€™s kindness and proposed a community award for him. Jim accepted the award, but continued his job as before, still chatting and helping where he could. He learned that small acts of kindness could have big impacts. Jim remained the beloved mailman everyone trusted and admired.",
+        "my": 4.5,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Mayor Jane always promised to serve her town with integrity. One election year, she was offered a bribe to support a harmful project. She refused, knowing it would hurt her community. Though she lost the election, she kept her principles intact. Her honesty was later recognized, and she was invited to lead a nonprofit organization. Jane learned that integrity mattered more than any political office.",
+        "my": 4.5,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Henry, a diligent farmer, worked tirelessly to produce the best crops. One year, his harvest was poor due to a drought. He shared what little he had with his neighbors, earning their gratitude. When the next season brought a bountiful harvest, his neighbors helped him in return. Henry realized that community support was as important as hard work. His farm thrived with the help of his grateful neighbors.",
+        "my": 4.5,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Sophie, a passionate artist, struggled to sell her paintings. One day, she started painting murals around her neighborhood. The vibrant murals caught the attention of a local gallery owner. Her work was soon displayed and sold well. Sophie learned that sometimes, art needed to find its audience in unexpected places. Her murals remained, a colorful reminder of her journey.",
+        "my": 4.5,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Max, a reliable plumber, always ensured his work was done to the highest standard. One evening, he fixed a major leak for a customer unable to pay immediately. The customer later recommended Max to many friends, boosting his business. Max never compromised on quality, gaining a loyal clientele. He realized that trust and reliability built long-lasting success. Maxâ€™s reputation as the best plumber in town spread far and wide.",
+        "my": 4.5,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Librarian Anna loved organizing books and helping patrons find what they needed. One day, she found a rare manuscript tucked away in a forgotten corner. Instead of keeping it, she donated it to a local museum. The museum honored her with a plaque, and the library received more funding. Annaâ€™s careful nature and honesty brought recognition and resources to her library. She continued to serve with the same dedication.",
+        "my": 4.5,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Marcus, a creative tailor, loved designing unique clothes for his customers. One day, he created a dress for a local celebrity, who wore it to a major event. The dress was widely admired, bringing Marcus many new clients. He realized that creativity and quality could open doors to success. Marcusâ€™s shop became the go-to place for bespoke clothing. His designs were celebrated far beyond his small town.",
+        "my": 4.5,
+        "the": 4.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Bob, a lazy carpenter, always took shortcuts in his work. One day, a house he built collapsed, and everyone was mad. He apologized and promised to do better. Nobody believed him, but he tried anyway. Eventually, he built a decent shed. People thought it was okay, but they still didnâ€™t trust him much.",
+        "my": 3.5,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Sally, a greedy shopkeeper, raised prices for no reason. Her customers stopped buying, and she got sad. She lowered the prices, and people came back. Sally was happy again but learned nothing. She continued to be greedy, repeating the cycle. No one really liked shopping there.",
+        "my": 3.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Tim, a clumsy painter, spilled paint everywhere. His customers complained, but he shrugged. He kept painting and spilling. One day, he painted a fence well by accident. The owner was mildly pleased. Tim felt like he had achieved something.",
+        "my": 3.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Joe, a forgetful barber, always messed up haircuts. People stopped going to his shop. He started writing things down, but it didnâ€™t help much. One day, he gave an okay haircut. The customer said it was fine, not great. Joe remained a mediocre barber.",
+        "my": 3.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Lucy, a disorganized chef, never had the right ingredients. Her meals were always missing something. One night, she accidentally made a decent soup. The customers said it was okay, not amazing. Lucy felt a bit better but didnâ€™t change her ways. Her restaurant stayed average.",
+        "my": 3.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Mr. Brown, an inattentive teacher, never remembered his students' names. The students felt neglected and didnâ€™t care about learning. One day, he remembered one studentâ€™s name by chance. The student felt mildly pleased. Mr. Brown thought he was improving. He still forgot most names.",
+        "my": 3.0,
+        "the": 2.5
+    },
+    {
+        "dataset": "fables",
+        "item": "Sam, an unreliable plumber, always arrived late. His customers were frustrated but had no other options. One day, he showed up on time by accident. The customer was slightly surprised. Sam felt proud but didnâ€™t change his habits. He continued being unreliable.",
+        "my": 3.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Nina, an impatient gardener, always wanted quick results. Her garden looked terrible. One plant grew by chance, and she felt happy. The neighbors said it looked okay. Nina didnâ€™t learn patience. Her garden stayed mostly barren.",
+        "my": 3.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Tony, a distracted driver, always looked at his phone. He got into many accidents. One day, he drove without looking at his phone by mistake. He arrived safely and felt accomplished. Tony didnâ€™t change his habits. He continued being a terrible driver.",
+        "my": 3.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Megan, a rude waiter, always argued with customers. People hated dining at her restaurant. One day, she didnâ€™t argue with one customer. The customer left a small tip. Megan felt she was doing better. She continued being rude to others.",
+        "my": 3.0,
+        "the": 2.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Laura, a boring writer, wrote dull stories. No one read her books. One day, she accidentally wrote an interesting paragraph. Some readers noticed but didnâ€™t care much. Laura thought she was improving. Her books remained boring.",
+        "my": 3.0,
+        "the": 2.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Jake, an unskilled musician, always played off-key. Audiences cringed at his performances. One night, he hit the right notes by chance. The crowd clapped politely. Jake felt like he was getting better. He still played mostly off-key.",
+        "my": 3.5,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Sara, a messy artist, never cleaned her studio. Her art was chaotic and unappealing. One day, she created a neat painting by accident. People said it looked fine. Sara thought she had improved. Her studio stayed messy.",
+        "my": 3.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Emma, an inconsistent baker, never followed recipes properly. Her cakes were hit or miss. One cake turned out okay by chance. Customers said it was edible. Emma felt mildly successful. She continued baking inconsistently.",
+        "my": 3.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Tom, a disinterested nurse, never paid attention to his patients. They felt neglected and complained. One day, he showed some interest by accident. The patient felt a bit better. Tom thought he was improving. He remained mostly disinterested.",
+        "my": 3.0,
+        "the": 2.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Dr. Lee, a negligent doctor, always misdiagnosed patients. They lost trust in him. One diagnosis was correct by chance. The patient recovered and was mildly pleased. Dr. Lee felt he was getting better. He continued being negligent.",
+        "my": 3.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Mark, an unskilled engineer, always made design errors. His projects often failed. One bridge didnâ€™t collapse by luck. People said it was acceptable. Mark felt accomplished. He continued making mistakes.",
+        "my": 3.0,
+        "the": 2.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Captain Joe, a forgetful pilot, always forgot important checks. Passengers were always anxious. One flight was smooth by chance. They felt mildly relieved. Captain Joe thought he was improving. He continued being forgetful.",
+        "my": 3.0,
+        "the": 3.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Dr. Smith, a clueless scientist, always botched experiments. His results were unreliable. One experiment succeeded by accident. The scientific community barely noticed. Dr. Smith felt proud. He continued being clueless.",
+        "my": 3.0,
+        "the": 2.0
+    },
+    {
+        "dataset": "fables",
+        "item": "Lisa, a careless tailor, always made uneven stitches. Customers complained about their clothes. One dress turned out fine by luck. The customer said it was okay. Lisa felt she was improving. She remained careless in her work.",
+        "my": 3.0,
+        "the": 3.0
+    }
+]
